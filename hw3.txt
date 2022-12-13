@@ -1,0 +1,10 @@
+   0 vi /tmp/file.txt
+   1 df -h | head -2 >> /tmp/file.txt
+   2 export NAME=Elena_Kharchenko
+   3 export VAR=Bumblebee
+   4 printenv $ NAME >> /tmp/file.txt
+   5 printenv $ VAR >> /tmp/file.txt
+   6 nano /tmp/file.txt
+   7 unset NAME 
+   8 unset VAR
+   9 history > /tmp/hw3.txt
