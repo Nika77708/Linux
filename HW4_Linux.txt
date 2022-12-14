@@ -1,0 +1,4 @@
+   0 vi /tmp/file.txt
+   1 cat /etc/group | head -n2 | tail -n1 >> /tmp/file.txt
+   2 chmod g+w,u-r,o+w /tmp/file.txt
+   3 history > /tmp/history.txt
