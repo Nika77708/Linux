@@ -1,6 +1,0 @@
-   0 nano script.sh
-   1 chmod 700 script.sh
-   2 ./script.sh
-   3 mv script.sh /bin
-   4 history > /tmp/homework.txt
- 
